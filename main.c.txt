@@ -5,6 +5,7 @@ int main(int argc, char **argv)
     printf("Now enter your last name: ");
     gets(last); /" butter overflow? what's that? "/
     askname(first, last);
+    ewvvr
 
     printf("Hello, %s %s!\n", first, last);
     return 0;
