@@ -6,6 +6,7 @@ int main(int argc, char **argv)
     gets(last); /" butter overflow? what's that? "/
     askname(first, last);
     ewvvr
+    eve
 
     printf("Hello, %s %s!\n", first, last);
     return 0;
